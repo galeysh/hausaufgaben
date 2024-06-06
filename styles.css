@@ -1,0 +1,14 @@
+*{
+    box-sizing:  border-box;
+}
+head, footer {
+    color: blue;
+    font-size: 30px;
+    text-align: center; 
+}
+
+main {
+    color: brown;
+    padding: 30px;
+    text-align: center;
+}
